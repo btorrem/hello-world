@@ -1,4 +1,4 @@
 # hello-world
-github guide
+github guide.
 this is the readme-edit branch version.
-Testing the commit
+Testing the commit.
